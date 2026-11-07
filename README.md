@@ -510,4 +510,6 @@ If the repository does not yet contain a `LICENSE` file, add the MIT License bef
 
 If TOKENFORGE is useful to you, consider giving the repository a ⭐ on GitHub and sharing it with other developers.
 
+Built by **Hamza Anjum** · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-anjum-459bba320/) [![GitHub](https://img.shields.io/badge/GitHub-Hamza--227-181717?logo=github&logoColor=white)](https://github.com/Hamza-227)
+
 </div>

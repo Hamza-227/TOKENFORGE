@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TOKENFORGE output
+TOKENFORGE_OUTPUT/
+*.zip
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Misc
+*.log
+.env
+

@@ -1,0 +1,12 @@
+Quarter,Department,Budget_USD,Actual_Spend_USD,Variance_Pct,Headcount,Status
+Q1-2026,Engineering,1500000,1420000,-5.3%,45,Approved
+Q1-2026,Product,450000,435000,-3.3%,12,Approved
+Q1-2026,Operations,320000,340000,+6.25%,8,Review
+Q1-2026,Marketing,800000,795000,-0.62%,15,Approved
+Q2-2026,Engineering,1650000,1610000,-2.4%,48,Approved
+Q2-2026,Product,500000,490000,-2.0%,14,Approved
+Q2-2026,Operations,350000,348000,-0.57%,9,Approved
+Q2-2026,Marketing,950000,940000,-1.05%,16,Approved
+Q3-2026,Engineering,1800000,1750000,-2.7%,52,Pending
+Q3-2026,Product,550000,530000,-3.6%,15,Pending
+
